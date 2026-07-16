@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","reason":"Centered muzzle and pupils aim clearly up."},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Nose and pupils shift screen-right and upward."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Head and nose point screen-right with elevated pupils."},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Strong screen-right profile with upward eye axis."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","reason":"Unmistakable screen-right profile."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Nose is screen-right and pupils and muzzle angle downward."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Head and nose remain screen-right with clear downward gaze."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Slight screen-right offset remains while pupils and muzzle aim down."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","reason":"Centered head with eyes and muzzle clearly down."},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Nose and pupils shift screen-left and downward."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Head and nose point screen-left with downward eye axis."},
+    {"direction":"247.5","verdict":"warning","expected":"down-left","observed":"subtle down-left","reason":"Nose is clearly screen-left; downward eye axis is subtle but coherent in the labeled loop."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","reason":"Unmistakable screen-left profile."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Nose and head remain screen-left while pupils and muzzle rise."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Clear screen-left head profile with strong upward gaze."},
+    {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"near-up with weak left component","reason":"Gaze is clearly up; weak screen-left component is an acceptable coherent step between 315 and 000."}
+  ],
+  "review_warnings": [
+    "337.5 horizontal axis is subtle but labeled loop context confirms a near-up final step.",
+    "247.5 vertical axis is subtle but remains coherent in the down-left arc.",
+    "157.5 to 180 has a visible metric change without identity break, reversal, or conspicuous discontinuity."
+  ]
+}

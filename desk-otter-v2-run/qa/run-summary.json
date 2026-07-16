@@ -1,0 +1,36 @@
+﻿{
+    "ok":  true,
+    "pet_id":  "desk-otter",
+    "display_name":  "Desk Otter",
+    "installed_package_dir":  "C:\\Users\\AIRI\\.codex\\pets\\desk-otter",
+    "installed_pet_json":  "C:\\Users\\AIRI\\.codex\\pets\\desk-otter\\pet.json",
+    "installed_spritesheet":  "C:\\Users\\AIRI\\.codex\\pets\\desk-otter\\spritesheet.webp",
+    "run_dir":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run",
+    "final_atlas":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\final\\spritesheet-extended.webp",
+    "installed_validation":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\final\\validation-installed.json",
+    "extended_validation":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\final\\validation-extended.json",
+    "chroma_despill_report":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\chroma-despill-extended.json",
+    "contact_sheet":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\contact-sheet-extended.png",
+    "direction_sheet":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\look-directions.png",
+    "blind_validation":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\direction-blind-validation.json",
+    "direction_semantics":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\direction-semantics.json",
+    "look_continuity":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\look-continuity.json",
+    "manual_review":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\qa\\review.json",
+    "backup_v1_dir":  "C:\\Users\\AIRI\\Documents\\桌面宠物制作\\desk-otter-v2-run\\backup-v1",
+    "result":  "Installed Desk Otter v2 with 16 look directions; packaged atlas validates as spriteVersionNumber 2.",
+    "validation_summary":  {
+                               "ok":  true,
+                               "width":  1536,
+                               "height":  2288,
+                               "columns":  8,
+                               "rows":  11,
+                               "spriteVersionNumber":  2,
+                               "warnings":  [
+
+                                            ],
+                               "errors":  [
+
+                                          ]
+                           },
+    "completed_at":  "2026-07-16T11:20:14.3465544+08:00"
+}

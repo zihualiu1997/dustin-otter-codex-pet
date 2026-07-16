@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "note": "Existing approved v1 rows 0-8 were preserved byte-for-byte before final atlas-wide despill; v2 structural validation passes with no errors or warnings."
+}
